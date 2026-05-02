@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="4.0"
+         xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee                       
+                             http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd">
+
+<!--  <servlet>
+  <servlet-name>proxy</servlet-name>
+  <servlet-class>org.mitre.dsmiley.httpproxy.ProxyServlet</servlet-class>
+  <init-param>
+   <param-name>targetUri</param-name>
+   <param-value>http://echo.free.beeceptor.com</param-value>
+  </init-param>
+  <init-param>
+   <param-name>log</param-name>
+   <param-value>true</param-value>
+  </init-param>
+ </servlet>
+
+ <servlet-mapping>
+  <servlet-name>proxy</servlet-name>
+  <url-pattern>/proxy/*</url-pattern>
+ </servlet-mapping> -->
+</web-app>
